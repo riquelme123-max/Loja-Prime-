@@ -18,7 +18,7 @@ async function carregarProdutos() {
                         </div>
                         </div>
                         <div class="card-footer p-4 pt-0 border-top-0 "    style="background-color: #8B0000">
-                        <div class="text-center"><a style="background-radius: 50px; color: white;" href="#">Adicionar ao carrinho</a></div>
+                        <div class="text-center"><a style="background-radius: 50px; color: white;" href="item.html?id=${produto.id}">Ver mais</a></div>
                         </div>
                     </div>
                 </div>
